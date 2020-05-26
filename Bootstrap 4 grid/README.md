@@ -1,0 +1,3 @@
+Il sistema di layout a griglia di Bootstrap e i modificatori che intervengono a seconda delle dimensioni del client (sm, md, lg, xl) sono la caratteristica fondamentale e concettualmente più complicata di questo framework: vediamolo da più vicino...
+https://www.youtube.com/watch?v=qmPmwdshCMw
+https://getbootstrap.com/docs/4.4/layout/overview/
