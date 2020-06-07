@@ -1,0 +1,75 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#wrapper{
+    border: 1px solid black ;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    background-color: orange;
+}
+body{
+    background-image: url("Immagini/header-background.jpg");
+}
+p{
+    padding: 15px;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+}
+a.pulsante{
+    width: 105px;
+    padding: 10px;
+    margin: 6px;
+    border: 1px solid #555;
+    background-color: #cccccc;
+    color: #666666;
+    text-align: center;
+    border-left-width: 5px;
+    font-weight: bold;
+    text-decoration: none;
+}
+#wrapper2 div{
+    display: inline-block;
+    margin: 20px;
+}
+a.pulsante:hover{
+    color: #cccccc;
+    background-color: #666666;
+    text-decoration: underline;
+    border-left-color: #cccccc;
+}
+a.pulsanteHomePage{
+    width: 500px;
+    height: 300px;
+    padding: 10px;
+    margin: 6px;
+    border: 1px solid #ff5c00;
+    background-color: yellow;
+    color: #666666;
+    text-align: center;
+    border-left-width: 5px;
+    font-weight: bold;
+    text-decoration: none;
+}
+a.pulsanteHomePage:hover{
+    color: #cccccc;
+    text-decoration: underline;
+    border-left-color: yellow;
+    background-color:#ff5c00;
+}
+p{
+    padding: 15px;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+}
+a{
+    padding-right: 3px;
+    padding-left: 3px;
+}
+h3{
+    color: black;
+    letter-spacing: 3px;
+    word-spacing: 3px;
+}
